@@ -58,6 +58,7 @@ color: #404bbf;
 }
 
 .header-address {
+font-style: normal;
 }
 
 .header-address-list {
@@ -149,7 +150,7 @@ color: #2e2f42;
 }
 
 .team-list {
-background-color: #FFFFFF
+background-color: #FFFFFF;
 }
 
 .team-list-image {
@@ -164,7 +165,7 @@ text-align: center;
 color: #2e2f42;
 }
 
-.team-image-text{
+.team-list-image-text{
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
